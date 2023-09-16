@@ -29,3 +29,50 @@
     color: #ffffff;
     font-size: 22px;
 }
+
+.serviceMainTitle {
+    font-weight: 700;
+    color: #3f5dbd;
+    font-size: 48px;
+    margin: 100px 0px 0 0px;
+}
+
+.bottom {
+    background: #051b35 none repeat scroll 0 0;
+    height: 5px;
+    width: 150px;
+    margin: 10px auto;
+}
+
+.serviceIcon {
+    height: 80px;
+    width: 80px;
+}
+
+.serviceCard {
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 0 8px 0 rgba(4, 55, 105, 0.2);
+}
+
+.serviceCard:hover {
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 0 16px 0 rgb(31, 65, 255);
+}
+
+.serviceTitle {
+    color: #3f5dbd;
+    margin-top: 1rem;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.serviceDescription {
+    color: #171d2e;
+    margin-top: 1rem;
+    font-size: 15px;
+    font-weight: 400;
+}
