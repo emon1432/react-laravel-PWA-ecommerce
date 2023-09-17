@@ -76,3 +76,15 @@
     font-size: 15px;
     font-weight: 400;
 }
+
+.navBarTitle{
+    font-weight: 700;
+    color: #ffffff !important;
+    font-size: 30px;
+}
+
+.navBarTitleScroll{
+    font-weight: 700;
+    color: #3f5dbd !important;
+    font-size: 40px;
+}
